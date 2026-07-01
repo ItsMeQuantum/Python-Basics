@@ -1,1 +1,8 @@
-print("Hello, World!")
+print("Hello, World")
+
+
+#Another Example
+
+print("Hello World")
+print("Have a good day")
+print("Learning Python is fun")
