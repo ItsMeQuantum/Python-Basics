@@ -16,3 +16,15 @@ Output:
 Hello, World!
 
 
+2. Python Indentation
+
+Indentation means adding spaces (usually 4) at the beginning of a line.
+
+In Python, indentation tells the computer which lines belong together.
+
+
+Example:
+if 5 > 3:
+    print("5 is greater than 3")
+
+Without the indentation, Python will give an error.
