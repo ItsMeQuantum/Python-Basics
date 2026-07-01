@@ -39,3 +39,10 @@ Without the indentation, Python will give an error.
 A variable is like a labeled box that stores information so you can use it later.
 
 For example, instead of remembering the number 25, you can store it in a variable named age.
+
+code:-
+age = 25
+name = "Alice"
+
+print(age)
+print(name)
